@@ -1,0 +1,2 @@
+# BaseJavaFX
+gradle构建javafx，整合sqlite与hibernate的快速项目
